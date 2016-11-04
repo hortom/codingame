@@ -4,11 +4,11 @@ If you tried [CodinGame](http://www.codingame.com) maybe you are wondering why i
 But can we use Haxe for CodinGame? Definitely yes!
 
 That is the purpose of this small class.  
-1. Create a new Haxe Javascript project in your favourite IDE, and build it.
-2. Add the `CodinGame.hx` file to the src root.
-2. In CodinGame just select Javascript as the language.
-3. In the Settings switch to **Use an external code editor** _(install the necessary extension and application if needed)_
-4. Select the output JS file to upload.
+>1. Create a new Haxe Javascript project in your favourite IDE, and build it.
+>2. Add the `CodinGame.hx` file to the src root.
+>3. In CodinGame just select Javascript as the language.
+>4. In the Settings switch to **Use an external code editor** _(install the necessary extension and application if needed)_
+>5. Select the output JS file to upload.
 
 You are done. Just write your own code in Haxe:
 - use the `static function main()` for the game loop
